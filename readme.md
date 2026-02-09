@@ -32,17 +32,6 @@ A curated mobile guide that helps users discover the best attractions, restauran
 
 ---
 
-## 📈 Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashokswami220&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="Ashok's Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashokswami220&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</p>
-
-
----
-
 ### 📫 Let's Connect
 * **Email:** Swamiashokk220@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/swamiashok220/
