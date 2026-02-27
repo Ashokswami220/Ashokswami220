@@ -45,9 +45,7 @@ A curated mobile guide that helps users discover the best attractions, restauran
 Here are some of my UI designs and app screens:
 
 
-<img src="images/screen1.png" width="250"/>
-<img src="images/screen2.png" width="250"/>
-<img src="images/screen3.png" width="250"/>
+<img src="https://github.com/Ashokswami220/Ashokswami220/blob/main/images/Screenshot_20260220-130318.Multink.png" width="200"/>
 
 > 📌 You can create a folder named `images` in your repo and upload screenshots there.
 
