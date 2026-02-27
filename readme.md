@@ -2,23 +2,32 @@
 
 ### 👨‍💻 Android Developer | Tech Explorer
 
-I am an Android Developer focused on building high-performance apps using **Kotlin** and **Jetpack Compose**. I have a strong interest in **Machine Learning**, **IoT**, and **Entrepreneurship**, constantly looking for ways to bridge the gap between hardware and mobile interfaces.
+I am an Android Developer focused on building high-performance apps using **Kotlin** and **Jetpack Compose**. I have a strong interest in **IoT** and **Entrepreneurship**, constantly looking for ways to bridge the gap between hardware and mobile interfaces.
 
 ---
 
 ## 📂 Featured Projects
 
-### 📍 [MultiLink](LINK_TO_REPO)
+### 📍 [MultiLink](https://github.com/Ashokswami220/MultiLink)
 **Real-time group travel tracking & coordination.**
-MultiLink solves the chaos of group trips by syncing live locations, battery status, and connectivity with sub-second latency using Firebase.
-* **Tech:** Kotlin, Jetpack Compose, Firebase Realtime DB, Mapbox SDK, Foreground Services.
-* **Highlights:** Session-based joining, "Google Maps-style" UI, and robust background tracking.
 
-### 🏙️ [My City App](LINK_TO_REPO)
+MultiLink solves the chaos of group trips by syncing live locations, battery status, and connectivity with sub-second latency using Firebase.
+
+* **Tech:** Kotlin, Jetpack Compose, Firebase Realtime DB, Mapbox SDK, Foreground Services  
+* **Highlights:** Session-based joining, Google Maps-style UI, and robust background tracking  
+
+---
+
+### 🏙️ [My City App](https://github.com/Ashokswami220/MyCityApp)
 **A comprehensive local guide for urban explorers.**
+
 A curated mobile guide that helps users discover the best attractions, restaurants, and hidden gems in the city with seamless navigation.
-* **Tech:** Kotlin, Android SDK, Navigation Component, Material Design.
-* **Highlights:** Clean UI architecture, categorized listings, and integrated map support.
+
+* **Tech:** Kotlin, Android SDK, Navigation Component, Material Design  
+* **Highlights:** Clean UI architecture, categorized listings, and integrated map support  
+
+📥 **Download APK:**  
+👉 https://github.com/Ashokswami220/MyCityApp/releases/download/camel_1.1/MyCityApp_v1.1.apk  
 
 ---
 
@@ -28,10 +37,23 @@ A curated mobile guide that helps users discover the best attractions, restauran
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Mapbox](https://img.shields.io/badge/Mapbox-4264FB?style=for-the-badge&logo=mapbox&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+## 🎨 UI Showcase
+
+Here are some of my UI designs and app screens:
+
+
+<img src="images/screen1.png" width="250"/>
+<img src="images/screen2.png" width="250"/>
+<img src="images/screen3.png" width="250"/>
+
+> 📌 You can create a folder named `images` in your repo and upload screenshots there.
 
 ---
 
 ### 📫 Let's Connect
-* **Email:** Swamiashokk220@gmail.com
+
+* **Email:** Swamiashokk220@gmail.com  
 * **LinkedIn:** https://www.linkedin.com/in/swamiashok220/
